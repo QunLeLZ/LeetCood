@@ -1,4 +1,4 @@
-# LeetCood
+# 数据结构算法题
 剑指offer和领扣的题目，剑指offer https://www.nowcoder.com/ta/coding-interviews, 领扣中国 https://leetcode-cn.com/  
 ## 剑指offer  
 ### 数组  
