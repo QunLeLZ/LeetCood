@@ -1,5 +1,5 @@
 # LeetCood
-剑指offer和领扣的题目，剑指offer 做题平台https://www.nowcoder.com/ta/coding-interviews，领扣中国https://leetcode-cn.com/  
+剑指offer和领扣的题目，剑指offer https://www.nowcoder.com/ta/coding-interviews, 领扣中国 https://leetcode-cn.com/  
 ## 剑指offer  
 ### 数组  
 - [二维数组中的查找](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.py)  
