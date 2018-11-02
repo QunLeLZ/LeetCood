@@ -3,6 +3,7 @@
 ## 剑指offer  
 ### 数组  
 - [二维数组中的查找](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.py)  
+- [顺时针打印矩阵](https://github.com/QunLeLZ/LeetCood/blob/master/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.py)  
 ### 字符串  
 - [替换空格](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.py)  
 ### 链表  
@@ -14,8 +15,10 @@
 - [矩形覆盖](https://github.com/QunLeLZ/LeetCood/blob/master/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96/%E7%9F%A9%E5%BD%A2%E8%A6%86%E7%9B%96.py)  
 ### 栈  
 - [用两个栈实现队列](https://github.com/QunLeLZ/LeetCood/blob/master/%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97/%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.py)  
+- [包含min函数的栈](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88/%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.py)  
 ### 二叉树  
 - [重建二叉树](https://github.com/QunLeLZ/LeetCood/blob/master/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91/%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.py)  
+- [二叉树的镜像](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F.py)  
 ### 查找和排序  
 - [旋转数组的最小数字](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97/%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97.py)  
 ### 位运算  
@@ -27,4 +30,5 @@
 - [链表中倒数第k个结点](https://github.com/QunLeLZ/LeetCood/blob/master/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.py)  
 - [反转链表](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.py)  
 - [合并两个排序的链表](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8.py)  
+- [树的子结构](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84/%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.py)  
 ## LeetCode  
