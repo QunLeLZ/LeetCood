@@ -53,4 +53,6 @@
 ### 时间效率空间效率的平衡  
 - [丑数](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%B8%91%E6%95%B0/%E4%B8%91%E6%95%B0.py)  
 - [第一个只出现一次的字符](https://github.com/QunLeLZ/LeetCood/blob/master/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.py)  
+### 其他  
+- [和为S的连续正数序列](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.py)  
 ## LeetCode  
