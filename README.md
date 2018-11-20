@@ -13,6 +13,8 @@
 ### 字符串  
 - [替换空格](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.py)  
 - [字符串的排列](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.py)  
+- [左旋转字符串](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.py)  
+- [翻转单词顺序列](https://github.com/QunLeLZ/LeetCood/blob/master/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.py)  
 ### 链表  
 - [从尾到头打印链表](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.py)  
 - [复杂链表的复制](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.py)  
@@ -55,4 +57,5 @@
 - [第一个只出现一次的字符](https://github.com/QunLeLZ/LeetCood/blob/master/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6.py)  
 ### 其他  
 - [和为S的连续正数序列](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.py)  
+- [和为S的两个数字](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.py)  
 ## LeetCode  
