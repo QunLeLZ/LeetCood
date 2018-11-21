@@ -58,4 +58,7 @@
 ### 其他  
 - [和为S的连续正数序列](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97/%E5%92%8C%E4%B8%BAS%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.py)  
 - [和为S的两个数字](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97/%E5%92%8C%E4%B8%BAS%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97.py)  
+- [扑克牌顺子](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.py)  
+- [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0)/%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0).py)  
+- [求1+2+3+...+n](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%B1%821%2B2%2B3%2B...%2Bn/%E6%B1%821%2B2%2B3%2B...%2Bn.py)  
 ## LeetCode  
