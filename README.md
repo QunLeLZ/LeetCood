@@ -10,11 +10,14 @@
 - [数字在排序数组中出现的次数](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%95%B0%E5%AD%97%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0/%E6%95%B0%E5%AD%97%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0.py)  
 - [数组中的逆序对](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9/%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9.py)  
 - [数组中只出现一次的数字](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.py)  
+- [数组中重复的数字](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.py)  
+- [构建乘积数组](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84/%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.py)  
 ### 字符串  
 - [替换空格](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.py)  
 - [字符串的排列](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97.py)  
 - [左旋转字符串](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.py)  
 - [翻转单词顺序列](https://github.com/QunLeLZ/LeetCood/blob/master/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97.py)  
+- [把字符串转换成整数](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0/%E6%8A%8A%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%88%90%E6%95%B4%E6%95%B0.py)  
 ### 链表  
 - [从尾到头打印链表](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8/%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.py)  
 - [复杂链表的复制](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6.py)  
@@ -61,4 +64,5 @@
 - [扑克牌顺子](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90.py)  
 - [孩子们的游戏(圆圈中最后剩下的数)](https://github.com/QunLeLZ/LeetCood/blob/master/%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0)/%E5%AD%A9%E5%AD%90%E4%BB%AC%E7%9A%84%E6%B8%B8%E6%88%8F(%E5%9C%86%E5%9C%88%E4%B8%AD%E6%9C%80%E5%90%8E%E5%89%A9%E4%B8%8B%E7%9A%84%E6%95%B0).py)  
 - [求1+2+3+...+n](https://github.com/QunLeLZ/LeetCood/blob/master/%E6%B1%821%2B2%2B3%2B...%2Bn/%E6%B1%821%2B2%2B3%2B...%2Bn.py)  
+- [不用加减乘除做加法](https://github.com/QunLeLZ/LeetCood/blob/master/%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95/%E4%B8%8D%E7%94%A8%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%81%9A%E5%8A%A0%E6%B3%95.py)  
 ## LeetCode  
