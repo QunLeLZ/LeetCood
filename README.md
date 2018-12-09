@@ -101,6 +101,7 @@
 27.[移除元素](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0/%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.java)  
 28.[实现strStr()](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E5%AE%9E%E7%8E%B0strStr()/%E5%AE%9E%E7%8E%B0strStr().java)  
 29.[两数相除](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4/%E4%B8%A4%E6%95%B0%E7%9B%B8%E9%99%A4.java)  
+33.[搜索旋转排序数组](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84/%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.java)  
 35.[搜索插入位置](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.java)  
 38.[报数](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%8A%A5%E6%95%B0/%E6%8A%A5%E6%95%B0.java)  
 771.[宝石与石头](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4.java)  
