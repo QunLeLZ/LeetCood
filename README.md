@@ -111,4 +111,5 @@
 48.[旋转图像](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F/%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.java)  
 49.[字母异位词分组](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84/%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.java)  
 53.[最大子序和](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C/%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.java)  
+58.[最后一个单词的长度](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.java)  
 771.[宝石与石头](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4.java)  
