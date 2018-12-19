@@ -115,4 +115,7 @@
 58.[最后一个单词的长度](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6/%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.java)  
 59.[螺旋矩阵 II](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%20II/%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5%20II.java)  
 61.[旋转链表](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8/%E6%97%8B%E8%BD%AC%E9%93%BE%E8%A1%A8.java)  
+66.[加一](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E5%8A%A0%E4%B8%80/%E5%8A%A0%E4%B8%80.java)  
+67.[二进制求和](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.java)  
+69.[x 的平方根](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9/x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.java)  
 771.[宝石与石头](https://github.com/QunLeLZ/LeetCood/blob/master/LeetCode/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4/%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4.java)  
